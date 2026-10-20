@@ -1,0 +1,11 @@
+# Local settings, model configuration, credentials, and runtime data
+settings*.json
+models*.json
+auth.json
+trust.json
+sessions/
+node_modules/
+npm/
+bin/
+.env
+.env.*
